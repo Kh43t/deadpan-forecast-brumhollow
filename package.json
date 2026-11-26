@@ -1,0 +1,1 @@
+{"description":"One deadpan weather forecast for a city that does not exist (make.fun bounty).","engines":{"node":">=22.18"},"license":"MIT","name":"deadpan-forecast-brumhollow","type":"module","version":"1.0.0"}
